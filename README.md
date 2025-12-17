@@ -9,3 +9,6 @@ Day 01 - 15/12/2025
 
 Day 02 - 16/12/2025
 - Logic Control Flow
+
+Day 03 - 17/12/2025
+- Loop iteration
